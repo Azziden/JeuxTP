@@ -1,0 +1,1 @@
+[{"nom":"Ilyes","classe":"warrior","arme":"sword","endurance":"75","force":"85","agilite":"50","intelligence":"50"},{"nom":"Azdeen","classe":"mage","arme":"mains","endurance":"50","force":"50","agilite":"75","intelligence":"95"}]
